@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Karina <img width="35px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/></h1>
 
 ### 🌸 I'm frontend developer from Russia
-
+### 👩🏻‍💻 I’m currently working on Progredis
 ---
 
 * 📖 Reading books

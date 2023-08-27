@@ -9,7 +9,6 @@
 * 🎮 Love gaming
 * 🍿🥤 Watching films
 * 😻 Love cats
-* 🌗 Follow Elon Musk on Twitter
 ___
 <details>	
   <summary><b>⚡ Github Stats</b></summary>

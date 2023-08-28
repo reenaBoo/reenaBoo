@@ -18,7 +18,7 @@ ___
 
 ```
 const karina = {
-    city: 'Surgut',
+    city: 'Surgut/Moscow',
     code: ["Javascript/Typescript"],
     technologies: {
         frontend: {
